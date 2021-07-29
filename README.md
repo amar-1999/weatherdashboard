@@ -30,9 +30,9 @@ If the user wants to see the past search city weather condition again, just clic
 * Finally when the user enters the city name  in the input box and press search button, “displayWeather” function will be fired up and current weather function will be call to display the current and 5-days forecast weather condition on the page.
 
 
-* Credits
+###Credits
 
-  .https://openweathermap.org/api
-  .https://getbootstrap.com/docs/4.5/getting-started/introduction/
-  .https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-  .https://fontawesome.com/
+  *https://openweathermap.org/api
+  *https://getbootstrap.com/docs/4.5/getting-started/introduction/
+  *https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+  *https://fontawesome.com/
