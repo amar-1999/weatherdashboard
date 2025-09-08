@@ -17,16 +17,16 @@ export const Header = ({
 
   return (
     <header className="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 transition-colors duration-200">
-      <div className="mx-auto px-4 sm:px-6 lg:px-8 py-4">
+      <div className="mx-auto px-4 sm:px-6 lg:px-8 ">
         <div className="flex items-center justify-between">
           {/* Logo */}
+
           <div className="flex items-center space-x-2">
-            <div className="p-2 bg-blue-100 dark:bg-blue-900 rounded-lg">
-              <Cloud className="h-6 w-6 text-blue-600 dark:text-blue-400" />
-            </div>
-            <span className="text-xl font-bold text-gray-900 dark:text-white">
-              Weather
-            </span>
+            <img
+              alt="Logo"
+              src="../../public/assets/logo.png"
+              className="w-20 h-20"
+            />
           </div>
 
           {/* Search */}
